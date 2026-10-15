@@ -8,7 +8,9 @@ Welcome to the Visual Capitalist GitHub organization. This is the home for our i
 
 | Repository | What it is | Who uses it |
 |---|---|---|
-| `website` | WordPress theme and custom code for visualcapitalist.com | Developers |
+| `vctracking` | Plugin to handle newsletter click tracking and utm link generation | Developers |
+| `Visual-Capitalist` | WordPress theme and custom code for visualcapitalist.com | Developers |
+| `vc-editorial-plugin` | Visual Capitalist editorial skills plugin for ChatGPT Work  | Editorial |
 | `design` | Illustrator scripts, Python utilities, and other design tooling | Design team |
 
 If you're looking for something and can't find it, reach out to the dev team.
